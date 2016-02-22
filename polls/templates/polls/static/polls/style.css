@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+li a {
+    color:#1654D7;
+  text-decoration: none;
+font-family: 'Poiret One', cursive;
+font-size: 28px;
+}
+
+p {
+	color: #E14343;
+}
+
+body {
+	background-color: #80CBC4;
+}
+/*
+body {
+    background: white url("images/wallas.jpg") no-repeat right bottom;
+}*/
